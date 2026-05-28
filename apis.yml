@@ -1,0 +1,32 @@
+aid: izi
+name: Izi
+description: "Audio guide for travellers"
+url: http://api-docs.izi.travel/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Transportation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Transportation
+  - Public APIs
+apis:
+  - name: Izi
+    description: "Audio guide for travellers"
+    humanURL: http://api-docs.izi.travel/
+    baseURL: http://api-docs.izi.travel/
+    tags:
+      - Transportation
+    properties:
+      - type: Documentation
+        url: http://api-docs.izi.travel/
+common:
+  - type: Website
+    url: http://api-docs.izi.travel/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
