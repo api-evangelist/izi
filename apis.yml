@@ -39,7 +39,6 @@ apis:
   - name: Izi
     description: "Audio guide for travellers"
     humanURL: http://api-docs.izi.travel/
-    baseURL: http://api-docs.izi.travel/
     tags:
       - Transportation
     properties:
